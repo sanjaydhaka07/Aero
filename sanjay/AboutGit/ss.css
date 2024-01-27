@@ -1,0 +1,23 @@
+.nev{
+    display:flex;
+    color:white;
+    background-color: rgb(194, 209, 37);
+    text-decoration: nun;
+    list-style: none;
+    
+}
+.but{
+    margin-left: 400px;
+    display: flex;
+    list-style: none;
+}
+body{
+    background-color: rgb(71, 120, 225);
+}
+a:hover{
+    color: brown;
+
+}
+li{
+    margin-left: 40px;
+}
